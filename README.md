@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-🔭 I’m currently working on **a inventory management mobile app**
+🔭 I’m currently working on **LEVTY Sistemas Ltda.**
   
-🌱 I’m currently learning **Javascript, Flutter, Python, SQL and PowerBI**
+🌱 I’m currently learning **Javascript, Python, SQL and PowerBI**
 
 <br/>
 
